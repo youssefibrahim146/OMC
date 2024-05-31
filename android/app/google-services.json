@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235409504724",
+    "project_id": "omcc-c1dae",
+    "storage_bucket": "omcc-c1dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235409504724:android:072a1b251363ea784bfe41",
+        "android_client_info": {
+          "package_name": "com.example.omc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235409504724-6l9s3ind0mafavm01krgj21lnb3j01k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66NHILuB0lH_A1tSTKVaKXJSniR7eeQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235409504724-6l9s3ind0mafavm01krgj21lnb3j01k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
